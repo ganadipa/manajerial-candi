@@ -6,3 +6,5 @@ How to use:
 2. Clone/ Download all the files (and folder) provided in here to manajerial-candi folder.
 3. Change directory to manajerial-candi as root.
 4. Run code in terminal. usage: python main.py <database-folder>
+
+Feel free to contact me if you found any bug inside. nyomanganadipa@gmail.com
